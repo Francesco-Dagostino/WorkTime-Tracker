@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WorkTime_Tracker_API.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="478fd330-b9b1-47dd-ab78-477022a1654d" />
+  <Project Path="Domain/Domain.csproj" Id="a3c3effe-d533-485b-8fa4-ff1c28e7837b" />
+  <Project Path="Infraestructure/Infraestructure.csproj" Id="c0cc4d87-46dc-465e-bcc2-0c35eeda5c71" />
+  <Project Path="WorkTime-Tracker_API/WorkTime-Tracker_API.csproj" />
+</Solution>
